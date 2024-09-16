@@ -3,6 +3,12 @@ Welcome to My GitHub Repository..!
 
 I’m a Linux engineer transitioning into the field of data analytics and engineering. With around 6 years of experience in the industry, I’ve gained some knowledge and skills that I’m excited to bring into this new domain. I’m also a woman returning to her career after a break, and I’m enthusiastic about leveraging my background in new and innovative ways.
 
+Skills:
+
+Linux, DBT and Data Modellinng, Mysql, Python, Excel, PowerBI 
+
+I Strongly believe in the journey of "Endless Learning"
+
 <!-- **Repository Overview**
 
 This repository showcases my journey and projects as I transition into data engineering and data science. Here, you’ll find a collection of:
