@@ -5,7 +5,7 @@ I’m a Linux engineer transitioning into the field of data analytics and engine
 
 Skills:
 
-Linux, DBT and Data Modelling, Mysql, Python, Excel, PowerBI 
+Linux,Shell Scripting, DBT and Data Modelling, Mysql, Python, Excel, PowerBI 
 
 I firmly believe the concept of "Endless Learning"
 
