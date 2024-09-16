@@ -23,7 +23,7 @@ If you have any questions or would like to discuss potential collaborations, don
 Contact
 You can reach me at: rnsneha92@gmail.com
 
-Thank you for visiting my GitHub profile. I’m looking forward to connecting with fellow data enthusiasts and professionals!
+Thank you for visiting my GitHub profile. I’m looking forward to connecting with fellow tech enthusiasts and professionals!
 
 <!---
 SnehaRNagarajan/SnehaRNagarajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
