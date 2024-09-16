@@ -1,7 +1,7 @@
 👋 Hi, I’m Sneha RN @SnehaRNagarajan
 Welcome to My GitHub Repository..!
 
-I’m a Linux engineer transitioning into the field of data analytics and engineering. With around 6 years of experience in the industry, I’ve gained a wealth of knowledge and skills that I’m excited to bring into this new domain. I’m also a woman returning to her career after a break, and I’m enthusiastic about leveraging my background in new and innovative ways.
+I’m a Linux engineer transitioning into the field of data analytics and engineering. With around 6 years of experience in the industry, I’ve gained some knowledge and skills that I’m excited to bring into this new domain. I’m also a woman returning to her career after a break, and I’m enthusiastic about leveraging my background in new and innovative ways.
 
 <!-- **Repository Overview**
 
