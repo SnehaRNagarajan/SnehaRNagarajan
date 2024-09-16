@@ -7,7 +7,7 @@ Skills:
 
 Linux, DBT and Data Modellinng, Mysql, Python, Excel, PowerBI 
 
-I Strongly believe in the journey of "Endless Learning"
+I firmly believe the concept of "Endless Learning"
 
 <!-- **Repository Overview**
 
